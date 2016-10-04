@@ -1,5 +1,5 @@
 ```
-  npm install array2sequence
+npm install array2sequence
 ```
 ```
 var a2s = require('array2sequence');
